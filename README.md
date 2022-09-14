@@ -1,1 +1,1 @@
-# BoardMVC-JSP-
+# BoardMVC_JSP
